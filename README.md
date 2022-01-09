@@ -2,7 +2,7 @@
 
 # AutoPublisher
 
-A simple Discord bot that automatically publishes messages in announcement channels.
+Auto-publish Discord messages sent in announcement channels.
 
 ## 📜 License
 

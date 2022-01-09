@@ -1,7 +1,7 @@
 {
 	"name": "autopublisher",
 	"version": "2.2.0",
-	"description": "A simple Discord bot that automatically publishes messages in announcement channels.",
+	"description": "Auto-publish Discord messages sent in announcement channels.",
 	"main": "main.js",
 	"private": true,
 	"repository": {
