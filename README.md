@@ -1,3 +1,9 @@
+### AutoPublisher has been archived.
+
+There are many alternatives, such as [Forcellrus/Discord-Auto-Publisher](https://github.com/Forcellrus/Discord-Auto-Publisher).
+
+---
+
 <img align="right" height=128 width=128 src="logo.png" /></p>
 
 # AutoPublisher
